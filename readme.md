@@ -61,7 +61,7 @@ Este projeto foi desenvolvido por mim com o objetivo de colocar em prática os c
 
 Você pode acessar o projeto através do link:
 
-🔗 **https://seu-projeto.vercel.app**
+🔗  <a href="https://gabrielbarcelosd.github.io/Projeto---Loja-LeBron/">Projeto - Loja LeBron James</a></p>
 
 ---
 
