@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    font-family: Poppins;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    width: 100%;
+}
+
+ul{
+    list-style: none;
+}
+
+button{
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+
+}
